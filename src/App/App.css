@@ -1,6 +1,7 @@
-.body {
+body {
   background-color: #008000;
-  color: ffffff;
+  color: #ffffff;
+  font-family: "Do Hyeon", sans-serif;
 }
 
 .hand {
